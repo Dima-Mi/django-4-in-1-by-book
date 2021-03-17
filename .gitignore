@@ -3,3 +3,5 @@
 __pycache__/
 media/
 *.sqlite3
+my.txt
+migrations/
