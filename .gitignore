@@ -5,3 +5,4 @@ media/
 *.sqlite3
 my.txt
 migrations/
+myshop/static/
